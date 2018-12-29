@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\bin\Debug\wordpad.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\bin\Debug\wordpad.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\bin\Debug\wordpad.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Samples\wordpad\wordpad\obj\Debug\wordpad.pdb
